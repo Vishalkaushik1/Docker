@@ -124,7 +124,7 @@ plaintext
 
 ## Video Demo  
 Watch the complete setup process and demonstration:  
-[Docker PrestaShop Setup Video](Docker_Prestashop_Setup.mp4)  
+
 
 ---
 
