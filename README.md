@@ -1,7 +1,4 @@
 # Docker
-Here’s an enhanced and detailed *README.md* for your PrestaShop project, integrating your YAML file and a reference to the demo video:  
-
-markdown
 # PrestaShop Dockerized Setup  
 
 ## Introduction  
