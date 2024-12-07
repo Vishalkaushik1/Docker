@@ -125,6 +125,7 @@ plaintext
 ## Video Demo  
 Watch the complete setup process and demonstration:  
 
+https://github.com/user-attachments/assets/d2bde991-359a-41f8-90f3-1e32c79d510e
 
 ---
 
